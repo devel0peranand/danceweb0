@@ -1,4 +1,4 @@
-
+hi..
 
 Commands in terminal:
   /* i means install */
